@@ -1,2 +1,2 @@
-# snsr
-My Repo
+# This is my readme file
+Hello snsr team
